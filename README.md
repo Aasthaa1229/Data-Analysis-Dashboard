@@ -8,7 +8,6 @@ This project focuses on analyzing pizza sales data using **MySQL** for data quer
 The dataset used in this analysis is available in the repository:  
 - <a href="https://github.com/Aasthaa1229/Data-Analysis-Dashboard/blob/main/dashboard%20f.xlsx">DataSet</a>
 
-
 ## 🧰 Tools & Technologies Used
 
 - **MySQL** – For data storage and advanced SQL queries
@@ -17,6 +16,15 @@ The dataset used in this analysis is available in the repository:
 - **Pivot Tables & Charts** – For visual insights
 
 ---
+
+## 📈 Dashboard
+
+You can download and explore the interactive Excel dashboard from the link below:
+
+🔗- <a</a>
+
+> The dashboard includes charts for revenue trends, order volume, best/worst-selling pizzas, and time-based sales analysis.
+
 
 ## 📊 Key Business Insights
 
