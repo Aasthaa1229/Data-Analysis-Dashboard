@@ -8,6 +8,8 @@ This project focuses on analyzing pizza sales data using **MySQL** for data quer
 The dataset used in this analysis is available in the repository:  
 - <a href="https://github.com/Aasthaa1229/Data-Analysis-Dashboard/blob/main/dashboard%20f.xlsx">DataSet</a>
 
+---
+
 ## 🧰 Tools & Technologies Used
 
 - **MySQL** – For data storage and advanced SQL queries
