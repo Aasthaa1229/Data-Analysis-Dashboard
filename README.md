@@ -25,6 +25,8 @@ You can download and explore the interactive Excel dashboard from the link below
 
 > The dashboard includes charts for revenue trends, order volume, best/worst-selling pizzas, and time-based sales analysis.
 
+<img width="1035" height="589" alt="picture" src="https://github.com/user-attachments/assets/a796098e-67e0-4c77-b0d1-e625869b4d17" />
+
 
 ## 📊 Key Business Insights
 
