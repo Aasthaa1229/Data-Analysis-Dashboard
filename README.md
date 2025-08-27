@@ -21,7 +21,7 @@ The dataset used in this analysis is available in the repository:
 
 You can download and explore the interactive Excel dashboard from the link below:
 
-🔗- <a</a>
+🔗- <a href="https://github.com/Aasthaa1229/Data-Analysis-Dashboard/blob/main/picture.png">Image</a>
 
 > The dashboard includes charts for revenue trends, order volume, best/worst-selling pizzas, and time-based sales analysis.
 
